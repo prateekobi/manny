@@ -1,0 +1,34 @@
+<template>
+  <div class="wrapper">
+    <div
+      class="container-fluid sun-container px-0 d-flex justify-content-center"
+    >
+      <div class="container align-self-center">
+        <div class="row mx-n1">
+          <div class="col-12 px-1 text-center">
+            <manny-sun></manny-sun>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
+
+<script>
+import MannySun from "@/components/MannySun";
+
+export default {
+  name: "home-page",
+  components: {
+    MannySun
+  }
+};
+</script>
+
+<style lang="scss" scoped>
+.wrapper {
+  .sun-container {
+    height: 100vh;
+  }
+}
+</style>

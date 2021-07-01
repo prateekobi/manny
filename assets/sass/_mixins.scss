@@ -1,0 +1,36 @@
+
+$xs: 320px;
+$small: 576px;
+$medium: 768px;
+$large: 992px;
+$xl: 1200px;
+
+@mixin m-xs {
+  @media (max-width: $xs) {
+    @content;
+  }
+}
+
+@mixin m-small {
+  @media (min-width: $small) {
+    @content;
+  }
+}
+
+@mixin m-medium {
+  @media (min-width: $medium) {
+    @content;
+  }
+}
+
+@mixin m-large {
+  @media (min-width: $large) {
+    @content;
+  }
+}
+
+@mixin m-xl {
+  @media (min-width: $xl) {
+    @content;
+  }
+}
