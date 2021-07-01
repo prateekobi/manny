@@ -6,6 +6,9 @@
       <div class="container align-self-center">
         <div class="row mx-n1">
           <div class="col-12 px-1 text-center">
+            <p class="title">Good morning Manny!</p>
+          </div>
+          <div class="col-12 px-1 text-center mt-5">
             <manny-sun></manny-sun>
           </div>
         </div>
@@ -27,6 +30,10 @@ export default {
 
 <style lang="scss" scoped>
 .wrapper {
+  .title {
+    color: #ffa900;
+    font-size: 20px;
+  }
   .sun-container {
     height: 100vh;
   }

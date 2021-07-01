@@ -34,3 +34,13 @@ $xl: 1200px;
     @content;
   }
 }
+
+@mixin font-primary($weight) {
+    // Light 300
+    // Regular 400
+    // Medium 500
+    // Semi Bold 600
+    // Bold 700
+    font-family: 'Poppins', sans-serif;
+    font-weight: $weight;
+  }
