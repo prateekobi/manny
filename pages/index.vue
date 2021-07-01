@@ -7,6 +7,7 @@
         <div class="row mx-n1">
           <div class="col-12 px-1 text-center">
             <p class="title">Good morning Manny!</p>
+            <p class="subtitle">from Prateek</p>
           </div>
           <div class="col-12 px-1 text-center mt-5">
             <manny-sun></manny-sun>
