@@ -5,48 +5,13 @@
         <path
           id="Vector"
           d="M62.4028 749.792H1274"
-          stroke="black"
+          stroke="#EDEDED"
           stroke-miterlimit="10"
         />
         <path
           id="Vector_2"
           d="M656.983 237.831C646.606 237.831 636.313 238.251 626.132 239.009C623.327 239.233 620.523 239.486 617.718 239.766C559.204 245.604 502.707 264.321 452.278 294.575C401.85 324.828 358.739 365.869 326.039 414.754C293.339 463.639 271.859 519.156 263.14 577.323C254.422 635.491 258.68 694.867 275.61 751.195H1038.47C1056.36 691.685 1060.08 628.816 1049.36 567.608C1038.63 506.399 1013.74 448.548 976.686 398.672C939.628 348.796 891.425 308.277 835.925 280.35C780.425 252.423 719.166 237.863 657.039 237.831H656.983Z"
-          fill="#FE892F"
-          stroke="black"
-          stroke-width="2"
-          stroke-miterlimit="10"
-        />
-        <path
-          id="Vector_3"
-          d="M235.42 101.915L370.491 246.976"
-          stroke="black"
-          stroke-width="2"
-          stroke-miterlimit="10"
-        />
-        <path
-          id="Vector_4"
-          d="M764.568 178.415L825.569 0.925781"
-          stroke="black"
-          stroke-width="2"
-          stroke-miterlimit="10"
-        />
-        <path
-          id="Vector_5"
-          d="M1094.08 389.624L1235.74 294.188"
-          stroke="black"
-          stroke-width="2"
-          stroke-miterlimit="10"
-        />
-        <path
-          id="Vector_6"
-          d="M1140.67 730.857L1251.28 739.3"
-          stroke="black"
-          stroke-width="2"
-          stroke-miterlimit="10"
-        />
-        <path
-          id="Vector_7"
-          d="M0.701172 558.95L164.744 601.253"
+          fill="#EDEDED"
           stroke="black"
           stroke-width="2"
           stroke-miterlimit="10"
@@ -89,7 +54,7 @@
 
 <script>
 export default {
-  name: "manny-sun"
+  name: "manny-moon"
 };
 </script>
 
