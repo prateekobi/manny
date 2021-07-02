@@ -66,12 +66,12 @@ export default {
   &.is-night {
     background-color: #000;
     .title {
-      color: #185adb;
+      color: #fff;
       font-size: 20px;
     }
 
     .subtitle {
-      color: #ffc947;
+      color: #185adb;
     }
   }
 
